@@ -4,7 +4,8 @@
   "description": "Understanding JavaScript Modules: Bundling &amp; Transpiling",
   "main": "index.js",
   "scripts": {
-    "browserify": "browserify ./src/entry.js -o ./bundle.js"
+    "browserify": "browserify ./src/entry.js -o ./bundle.js",
+    "webpack": "webpack ./src/entry.js bundle.js"
   },
   "repository": {
     "type": "git",
