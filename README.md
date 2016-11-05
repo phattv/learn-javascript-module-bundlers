@@ -1,6 +1,8 @@
 # javascript-modules
 Understanding JavaScript Modules: Bundling &amp; Transpiling
 
+please look at package.json to see all the npm scripts
+
 # How to build
     npm install
 
