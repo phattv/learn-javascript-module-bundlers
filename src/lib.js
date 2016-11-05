@@ -1,4 +1,4 @@
-var module = function(number) {
+var double = function(number) {
   return number * 2;
 }
 
