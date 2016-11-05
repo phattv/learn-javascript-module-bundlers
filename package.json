@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
     "browserify": "browserify ./src/entry.js -o ./bundle.js",
-    "webpack": "webpack ./src/entry.js bundle.js"
+    "webpack": "webpack ./src/entry.js bundle.js",
+    "coffee": "coffee --output ./dist ./src/coffee-lib.coffee"
   },
   "repository": {
     "type": "git",
