@@ -1,0 +1,25 @@
+{
+  "name": "javascript-modules",
+  "version": "1.0.0",
+  "description": "Understanding JavaScript Modules: Bundling &amp; Transpiling",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vanphattran/javascript-modules.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vanphattran/javascript-modules/issues"
+  },
+  "homepage": "https://github.com/vanphattran/javascript-modules#readme",
+  "devDependencies": {
+    "browserify": "^13.1.1",
+    "jspm": "^0.16.47",
+    "webpack": "^1.13.3"
+  }
+}
