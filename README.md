@@ -3,7 +3,14 @@ Understanding JavaScript Modules: Bundling &amp; Transpiling
 
 # How to build
     npm install
+
+then
+
     npm run browserify
+
+or
+
+    npm run webpack
 
 # How to run
     live-server
